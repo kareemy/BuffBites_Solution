@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Buff Bites</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="chickfila">Chick-fil-A</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="which_wich">Which Wich</string>
+    <string name="back_button">Back</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Tax: %s"</string>
+    <string name="total">Total: %s</string>
+    <string name="submit">Submit</string>
+    <string name="choose_meal">Choose Meal</string>
+    <string name="choose_delivery_time">Choose Delivery Time</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_summary_detail">Order Summary from %s</string>
+    <string name="delivery_time">\tDelivery at %s</string>
+    <string name="order_details">Vendor: %1$s \nMenu Item: %2$s \nDelivery Time: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="select_vendor">Select a vendor for delivery</string>
+    <string name="select_a_delivery_time">Select a delivery time.</string>
+    <string name="new_buffbites_order">New Buff Bites Order</string>
+</resources>
